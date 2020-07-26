@@ -1,0 +1,24 @@
+#Gamemode ID
+Gamemode: UHC-Meetup
+
+Queue:
+  #For Gamemodes like Bunkers
+  Singular: true
+  Required-Players: 15
+
+  #Only Useful for something like UHC Meetup
+  List:
+    Solo:
+      Required-Players: 16
+    Duo:
+      Required-Players: 24
+
+Spectator-Format:
+  - "&7&m----------------"
+  - "Type: %type%"
+  - "Players: %min%/%max%"
+  - "Game Time: %time%"
+  - "&7&m----------------"
+  - "Border: %border%"
+  - "Scenario: %scenario%"
+  - "&7&m----------------"

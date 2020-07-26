@@ -1,0 +1,21 @@
+###############
+# Information #
+###############
+name: Bridge
+version: null
+website: https://www.frozenorb.net/
+author: FrozenOrb Development Team
+main: com.frozenorb.bridge.BridgePlugin
+
+############
+# Commands #
+############
+commands:
+  #List Command
+  list:
+    description: Be awesome!
+    aliases: [who, onlineplayers, online]
+  #Register Command
+  register:
+    description: Be awesome!
+    aliases: [login]

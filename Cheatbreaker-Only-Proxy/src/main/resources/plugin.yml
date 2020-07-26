@@ -1,0 +1,12 @@
+###############
+# Information #
+###############
+name: Cheatbreaker-Only-Proxy
+version: null
+website: https://www.frozenorb.net/
+author: FrozenOrb Development Team
+main: com.frozenorb.cbonlyproxy.CBProxyPlugin
+
+############
+# Commands #
+############

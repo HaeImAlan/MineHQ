@@ -1,0 +1,14 @@
+###############
+# Information #
+###############
+name: qLib
+version: 1.0
+author: FrozenOrb Development Team
+description: qLib Replica Plugin
+website: https://www.frozenorb.net/
+main: com.frozenorb.qlib.qLibPlugin
+
+############
+# Commands #
+############
+commands:

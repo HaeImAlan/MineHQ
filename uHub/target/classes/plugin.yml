@@ -1,0 +1,19 @@
+###############
+# Information #
+###############
+name: uHub
+version: 1.0
+main: com.frozenorb.uhub.uHubPlugin
+description: uHub Plugin Replica
+website: https://www.frozenorb.net/
+depend: [qLib, Redstone, CommonLibs]
+author: FrozenOrb Development Team
+
+############
+# Commands #
+############
+commands:
+  #Spawn Command
+  spawn:
+    description: Teleport to the Hub spawn.
+    aliases: [spawntp]
