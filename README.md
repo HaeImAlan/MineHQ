@@ -1,6 +1,6 @@
 # MineHQ
 
-#### Plugins included
+##### Plugins included
 
 - Basic
 - Bridge
