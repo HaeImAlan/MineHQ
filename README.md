@@ -1,4 +1,4 @@
-# MineHQ
+## MineHQ
 
 ##### Plugins included
 
